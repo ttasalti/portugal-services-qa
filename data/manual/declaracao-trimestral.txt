@@ -1,0 +1,20 @@
+url: https://www.seg-social.pt/ptss/pssd/noticias/trabalhadores-independentes-entrega-da-declaracao-trimestral
+title: Trabalhadores Independentes: Entrega da Declaração Trimestral
+agencies: social,tax
+
+Até 30 de abril através do Portal da Segurança Social
+Os Trabalhadores Independentes devem proceder à entrega da sua Declaração Trimestral até ao dia 30 de abril.
+Este procedimento, realizado exclusivamente através do Portal da Segurança Social, é fundamental para o apuramento da base de incidência contributiva para o período seguinte.
+Nesta declaração, devem ser indicados os rendimentos obtidos nos meses de janeiro, fevereiro e março de 2026. Estes valores servirão de base para o cálculo das contribuições devidas nos meses de abril, maio e junho.
+
+## Como submeter a declaração
+A entrega da declaração trimestral deve ser realizada no portal da Segurança Social através do menu Trabalho > Remunerações e contribuições > Trabalhadores Independentes > Entregar declaração trimestral.
+Após a submissão, o trabalhador receberá uma notificação na sua Caixa de Mensagens com a indicação da base de incidência fixada e o valor previsto da contribuição prevista.
+
+## Gestão e Pagamento de Contribuições
+A Segurança Social apura mensalmente o valor exato a pagar, que pode sofrer ajustes face à previsão inicial (por exemplo, em situações de impedimento para o trabalho por doença).
+O beneficiário será sempre notificado via Portal da Segurança Social sobre a criação da nova obrigação contributiva.
+Para consultar e gerir os seus pagamentos, os utilizadores dispõem de ferramentas de consulta imediata no Portal através do Menu Pagamentos e dívidas > Posição Atual (consultar) > Valores a pagar
+- Separador Contribuições Correntes: Consulta dos valores dentro do prazo limite de pagamento no mês em curso.
+- Separador Contribuições em Atraso: Consulta de valores de meses anteriores já ultrapassados, incluindo os respetivos juros de mora.
+Através destas funcionalidades, o Trabalhador Independente detém total autonomia para selecionar os valores que pretende pagar e emitir os respetivos documentos de pagamento, garantindo uma gestão rigorosa e eficiente das suas obrigações perante a Segurança Social.

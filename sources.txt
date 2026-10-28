@@ -1,0 +1,25 @@
+# url followed by the agencies it covers: aima, tax, social
+
+# AIMA
+https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1 aima
+https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o aima
+https://aima.gov.pt/pt/viver/reagrupamento-familiar-com-familiar-fora-de-territorio-nacional-art-98-o-n-o-1 aima
+https://aima.gov.pt/pt/estudar/autorizacao-de-residencia-para-investigadores-art-91-o-b aima
+https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-exercicio-de-atividade-profissional-subordinada-com-visto-de-residencia-art-88-o-n-o-1 aima
+https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-exercicio-de-atividade-profissional-independente-com-visto-de-residencia-art-89-o-n-o1 aima
+https://aima.gov.pt/pt/viver/perguntas-frequentes-portal-de-servicos aima
+https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-exercicio-de-atividade-profissional-subordinada-com-visto-para-procura-de-trabalho-art-88-o-n-o7 aima
+https://www.gov.pt/servicos/renovar-a-autorizacao-de-residencia aima
+
+# Tax
+https://www.gov.pt/servicos/pedir-o-numero-de-identificacao-fiscal-para-pessoa-singular tax
+https://www.gov.pt/servicos/abrir-atividade-nas-financas tax
+https://www.gov.pt/servicos/nomear-representante-fiscal tax
+https://www.gov.pt/servicos/simular-e-entregar-a-declaracao-anual-do-irs tax
+https://www.gov.pt/guias/trabalhar-por-conta-propria-guia-para-trabalhadores-independentes/obrigacoes-fiscais-e-pagamentos-impostos-e-contribuicoes tax,social
+https://www.gov.pt/guias/trabalhar-por-conta-propria-guia-para-trabalhadores-independentes/trabalhador-independente tax,social
+https://www.gov.pt/guias/trabalhar-por-conta-propria-guia-para-trabalhadores-independentes/abrir-atividade-e-prestacao-de-servicos tax,social
+
+# Social security and health
+https://www.gov.pt/servicos/requerer-o-subsidio-de-desemprego social
+https://www.gov.pt/servicos/pedir-o-numero-de-utente-do-sns social

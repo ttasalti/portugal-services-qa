@@ -1,0 +1,10 @@
+.venv
+.env
+.git
+data/raw
+data/chroma
+logs
+results
+**/__pycache__
+.pytest_cache
+.ruff_cache

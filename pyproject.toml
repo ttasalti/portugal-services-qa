@@ -1,0 +1,57 @@
+[project]
+name = "portugal-services-qa"
+version = "0.1.0"
+description = "Answer questions about Portuguese public services in Turkish, English or Portuguese from official pages, with RAG and a search agent"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain-core>=1.6",
+    "langchain-text-splitters>=1.1",
+    "langchain-huggingface>=1.2",
+    "langchain-chroma>=1.1",
+    "langchain-openai>=1.6",
+    "langgraph>=1.2",
+    "sentence-transformers>=6.0",
+    "chromadb>=1.0",
+    "torch>=2.8",
+    "trafilatura>=2.0",
+    "httpx>=0.28",
+    "lxml>=5.0",
+    "python-dotenv>=1.0",
+    "rank-bm25>=0.2",
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+]
+
+[project.scripts]
+ptqa = "ptqa.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12,<0.13"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "ptqa"
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.8"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.uv]
+link-mode = "copy"
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

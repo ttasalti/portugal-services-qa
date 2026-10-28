@@ -1,0 +1,18 @@
+url: https://www.seg-social.pt/ptss/pssd/menu/ajuda/niss
+title: Número de Identificação de Segurança Social (NISS)
+agencies: social
+
+Saiba como é atribuído o Número de Identificação de Segurança Social (NISS) para uma identificação única perante a Segurança Social.
+
+## O que posso fazer online
+- Pedir o Número de Identificação de Segurança Social (NISS)
+- Consultar o pedido do Número de Identificação de Segurança Social (NISS)
+
+## Como pedir a atribuição de NISS a pessoas coletivas
+A atribuição é feita de forma automática pela Segurança Social, quando as empresas são criadas. Para mais informação, consulte o Guia Prático “Inscrição e Alteração de Dados – Pessoa Coletiva”.
+
+## Como pedir a atribuição de NISS a pessoas singulares
+A atribuição é feita de forma automática quando é pedido o Cartão de Cidadão.
+Para cidadãos estrangeiros ou cidadãos nacionais sem obrigatoriedade de ter Cartão de Cidadão
+Consulte a secção "O que posso fazer online?" para saber como fazer o pedido.
+A obtenção do comprovativo do NISS pode ser feita através de confirmação dos dados biométricos.

@@ -1,0 +1,35 @@
+url: https://www.seg-social.pt/ptss/pssd/menu/trabalho/remuneracoes-contribuicoes/trabalhadores-independentes
+title: Trabalhadores independentes
+agencies: social,tax
+
+Informação sobre as contribuições a pagar pelos Trabalhadores Independentes e pelas Entidades Contratantes.
+
+## Quem são
+- pessoas com atividade profissional por conta própria (prestação de serviços incluindo científicos, literários, artísticos ou técnico ou atividade comercial, industrial, agrícola, silvícola ou pecuária) e o/a seu/sua marido/mulher, companheiro/a com quem viva em união de facto (1)
+- sócio/a ou membro de sociedade de profissionais livres
+- sócio/a de sociedade de agricultura de grupo
+- pessoa com direitos sobre explorações agrícolas ou semelhante, fazendo a sua gestão regular e direta
+- produtor/a agrícola e o/a marido/mulher ou companheiro/a com quem viva em união de facto(1) que trabalhem na exploração agrícola ou semelhante
+- empresário/a em nome individual que tem rendimentos de atividade comercial e industrial e é dono/a de um estabelecimento individual de responsabilidade limitada e o/a seu/sua marido/mulher ou companheiro/a com quem vive em união de facto(1)
+- membro de cooperativa de produção e serviços que escolhe este regime nos seus estatutos
+(1) Se com ele/a trabalhar de forma regular e contínua.
+
+## Não estão abrangidos por este regime
+- advogados e solicitadores
+- pessoas com direitos sobre explorações agrícolas cujo produto é principalmente para consumo próprio e o rendimento por ano que não ultrapasse 4 vezes o Indexante dos Apoios Sociais (IAS)
+- trabalhadores por conta própria com atividade temporária em Portugal e que já têm proteção social obrigatória noutro país, pelo menos em situações de invalidez, velhice e morte
+- proprietários de embarcações de pesca local e costeira, que trabalhem como parte da tripulação
+- pessoas que apanham espécies marinhas
+- pescadores que pescam na costa sem barco
+- agricultores que recebem subsídios agrícolas inferiores a 4 vezes o IAS e que não têm outros rendimentos que exijam a inscrição como trabalhadores independentes
+- pessoas com rendimentos da categoria B por:
+- produção de eletricidade para autoconsumo ou através de unidades de pequena produção a partir de energias renováveis
+- contratos de arrendamento e de arrendamento urbano para alojamento local em moradia ou apartamento
+
+## Qual a duração
+A duração do enquadramento é variável.
+Para mais informações, consulte os guias práticos.
+
+## Como se pode inscrever
+Consulte a secção "O que posso fazer online" para fazer o pedido.
+Se pretende outro tipo de atendimento, consulte a página de contactos e canais de atendimento da Segurança Social.
